@@ -1,5 +1,5 @@
 # Rossman_Sales_Model
-# Projeto de Insights: House Rocket #
+
    O objetivo desse projeto é 
 ## 1. Questão de negócio: ##
   
