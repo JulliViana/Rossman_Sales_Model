@@ -21,43 +21,7 @@ Dicionário de Dados
 | |
 
 
-Novas features:
 
-•	constrution: ano de construção maior ou menor que 1955
-
-
-### 3.4 Aplicativo em Nuvem ###
-
-
-## 4.	Principais Insights ##
-
-
-### H1 -Imóveis com vista para a água são em média mais caros ###
-
-- [x] Resultado: Verdadeiro
-
-
-### H2 - Imóveis com data de construção menor que 1955 são em média mais baratos ####
-
-- [x]  Resultado: Falso
-
-
-### H3 - Imóveis sem porão são maiores do que imóveis com porão ###
-
-- [x]  Resultado: Verdadeira
-
-
-### H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
-
-- [x]  Resultado: Falsa 
-
-
-### H5 - Imóveis com mais quartos são em média mais caros ###
-
-- [x]  Resultado: Verdadeiro
-
-
-## 5.	Resultados Financeiros: ## 
 
 
 
